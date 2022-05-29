@@ -1,0 +1,14 @@
+.game {
+    width: 846px;
+    height: 564px;
+    margin: 7.5% auto;
+}
+
+.grid {
+    background-image: url('./img/bg.jpg');
+    background-repeat: repeat;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
