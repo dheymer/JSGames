@@ -1,0 +1,9 @@
+.content {
+    width: 846px;
+    height: 564px;
+    margin: 7.5% auto;
+}
+
+.content .list a {
+    text-decoration: none;
+}
